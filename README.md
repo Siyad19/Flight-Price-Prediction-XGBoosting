@@ -132,7 +132,7 @@ python -m src.predict
 Start the API server:
 
 ```bash
-uvicorn src.app:app --reload
+uvicorn app:app --reload
 ```
 
 The API will be available at:
